@@ -1,0 +1,31 @@
+_repo: The-Oxbow-Wizard_61911
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodridge Roberts, Theodore
+    aliases:
+    - Roberts, T. G. (Theodore Goodridge)
+    - Roberts, Theodore Goodridge
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+description: ''
+gutenberg_issued: '2020-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Trappers -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Oxbow Wizard
+url: http://www.gutenberg.org/ebooks/61911
